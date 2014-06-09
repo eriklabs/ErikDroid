@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ErikDroid</string>
+    <string name="action_about">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loadingTitle">Loading…</string>
+    <string name="releaseToRefresh">Release to refresh</string>
+    <string name="pullDownToRefresh">Pull down to refresh</string>
+    <string name="connectionError">Error connecting to server. Please try again later.</string>
+    <string name="dialogOk">OK</string>
+    <string name="mainListRowImage">Main List Row Image</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="login">Login</string>
+    <string name="clean">Clean</string>
+    <string name="changePassword">Change Password</string>
+    <string name="createPasswordNote">Create a secure password to prevent others to see the application\'s content.</string>
+    <string name="securityCenter">Security Center</string>
+    <string name="enterPasswordNote">Please enter your password to reach application content.</string>
+    <string name="changePasswordNote">Please enter your old and new passwords to change your password.</string>
+    <string name="passwordSuccessfullyCreated">Password successfully created.</string>
+    <string name="passwordChangeSuccessful">Password change successful.</string>
+    <string name="loginSuccessful">You\'re logged in.</string>
+    <string name="password">Password</string>
+    <string name="wrongPasswordWarning">Password is wrong.</string>
+    <string name="emptyPasswordWarning">Please enter a valid password.</string>
+    <string name="shortPasswordWarning">Password is too short.</string>
+    <string name="longPasswordWarning">Password is too long.</string>
+    <string name="wrongOldPasswordWarning">Old password is wrong.</string>
+    <string name="emptyNewPasswordWarning">Please enter a valid new password.</string>
+    <string name="shortNewPasswordWarning">New password is too short.</string>
+    <string name="longNewPasswordWarning">New password is too long.</string>
+    <string name="aboutDialogMessage">We do not own the content of this app, therefore we do not have any responsibility on the content. All the content is taken from the following websites:\n\n
+http://relax.ru/\n
+http://korzik.net/\n
+------------------------------
+\n\nCreated by ErikLabs - 2014</string>
+
+</resources>

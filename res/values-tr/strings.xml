@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ErikDroid</string>
+    <string name="action_about">Hakkında</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loadingTitle">Yükleniyor…</string>
+    <string name="releaseToRefresh">Güncellemek için bırakın</string>
+    <string name="pullDownToRefresh">Güncellemek için aşağı doğru çekin</string>
+    <string name="connectionError">Sunucuyla bağlantı kurulamadı. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="dialogOk">Tamam</string>
+    <string name="mainListRowImage">Main List Row Image</string>
+    <string name="old_password">Eski Password</string>
+    <string name="new_password">Yeni Şifre</string>
+    <string name="login">Giriş Yap</string>
+    <string name="clean">Sil</string>
+    <string name="changePassword">Şifre Değiştir</string>
+    <string name="createPasswordNote">Başkalarının uygulama içeriğine ulaşamaması için güvenli bir şifre oluşturun.</string>
+    <string name="securityCenter">Güvenlik Merkezi</string>
+    <string name="enterPasswordNote">Uygulama içeriğini görüntüleyebilmek için şifrenizi girin.</string>
+    <string name="changePasswordNote">Şifre değişikliği işlemi için sırasıyla eski ve yeni şifrenizi girin.</string>
+    <string name="passwordSuccessfullyCreated">Şifreniz başarıyla oluşturuldu.</string>
+    <string name="passwordChangeSuccessful">Şifre değiştirme başarılı.</string>
+    <string name="loginSuccessful">Giriş yapıldı.</string>
+    <string name="password">Şifre</string>
+    <string name="wrongPasswordWarning">Yanlış bir şifre girdiniz.</string>
+    <string name="emptyPasswordWarning">Lütfen geçerli bir şifre girin.</string>
+    <string name="shortPasswordWarning">Belirlediğiniz şifre çok kısa.</string>
+    <string name="longPasswordWarning">Belirlediğiniz şifre çok uzun.</string>
+    <string name="wrongOldPasswordWarning">Eski şifrenizi yanlış girdiniz.</string>
+    <string name="emptyNewPasswordWarning">Lütfen geçerli bir yeni şifre belirleyin.</string>
+    <string name="shortNewPasswordWarning">Belirlediğiniz yeni şifre çok kısa.</string>
+    <string name="longNewPasswordWarning">Belirlediğiniz yeni şifre çok uzun.</string>
+    <string name="aboutDialogMessage">Uygulama içeriği bize ait değildir, dolayısıyla içerik hakkında herhangi bir sorumluluğumuz bulunmamaktadır. Tüm içerik aşağıdaki internet sitelerinden alınmaktadır:\n\n
+http://relax.ru/\n
+http://korzik.net/\n
+------------------------------
+\n\nCreated by ErikLabs - 2014</string>
+
+</resources>
